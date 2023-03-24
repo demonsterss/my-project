@@ -1,0 +1,35 @@
+%YAML:1.0
+#IP
+ip_addr_send: "192.168.1.6"
+
+#PORT
+port_send: 5677
+
+#ground filter and gridmap range
+grid_size: 10
+y_max: 10
+z_max: 2
+z_min: 0.1
+x_max: 52
+x_min: 0
+
+#car filter
+car_y: 1.1
+car_x_min: 0
+car_x_max: 2.4
+
+#gridcell param
+grid_n1: 75
+grid_n1_param: 3
+grid_n2: 150
+grid_n2_param: 3
+grid_n3: 225
+grid_n3_param: 3
+grid_n4: 300
+grid_n4_param: 2
+grid_n5: 375
+grid_n5_param: 2
+grid_n6: 450
+grid_n6_param: 2
+grid_n7: 520
+grid_n7_param: 1
